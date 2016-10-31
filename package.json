@@ -8,7 +8,8 @@
         "vscode": "^1.5.0"
     },
     "categories": [
-        "Other"
+        "Other",
+        "Productivity"
     ],
     "activationEvents": [
         "onLanguage:markdown"
@@ -25,5 +26,10 @@
         "mocha": "^2.3.3",
         "@types/node": "^6.0.40",
         "@types/mocha": "^2.2.32"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/jrieken/md-navigate/issues",
+    "bugs": {
+        "url": "https://github.com/jrieken/md-navigate/issues"
     }
 }
