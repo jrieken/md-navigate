@@ -9,7 +9,7 @@
     },
     "categories": [
         "Other",
-        "Productivity"
+        "Languages"
     ],
     "activationEvents": [
         "onLanguage:markdown"
